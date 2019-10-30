@@ -153,4 +153,4 @@ document.getElementById("demo").innerHTML = "name: " + obj.name + ", age: " + ob
 </html>
 ```
 # heroku
-https://parcial-arsw.herokuapp.com/index.html
+https://nicolas-patino-arsw-t2.herokuapp.com/index.html
