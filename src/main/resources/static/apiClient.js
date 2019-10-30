@@ -7,7 +7,7 @@ apiClient = (function () {
                 var data = JSON.parse(weather);
                 console.log(data.values());
                 data.forEach(function (valor, indice, array) {
-                    console.log(valor);
+
                     var lol = "<tbody>" +
                             "<tr>" +
                             "<td>" + name + "</td>" +
